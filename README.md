@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 A junior full stack web developer with a strong passion for problem-solving and continuous personal growth.<br><br>🔭 I’m currently working on my skills<br>🌱 I’m currently learning Tailwind Css<br>
+👨‍💻 A junior full stack web developer with a strong passion for problem-solving and continuous personal growth.<br><br>🔭 I’m currently working on making a website <br>🌱 I’m currently learning about artificial intelligence models, automation, and LLMs <br>
 
 
 ## 🌐 Socials:
